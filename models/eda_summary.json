@@ -1,0 +1,299 @@
+{
+  "rows": 1470,
+  "columns_raw": 35,
+  "columns_clean": 32,
+  "leavers": 237,
+  "attrition_rate": 16.1,
+  "by": {
+    "OverTime": [
+      {
+        "grp": "Yes",
+        "n": 416,
+        "rate": 30.5
+      },
+      {
+        "grp": "No",
+        "n": 1054,
+        "rate": 10.4
+      }
+    ],
+    "JobRole": [
+      {
+        "grp": "Sales Representative",
+        "n": 83,
+        "rate": 39.8
+      },
+      {
+        "grp": "Laboratory Technician",
+        "n": 259,
+        "rate": 23.9
+      },
+      {
+        "grp": "Human Resources",
+        "n": 52,
+        "rate": 23.1
+      },
+      {
+        "grp": "Sales Executive",
+        "n": 326,
+        "rate": 17.5
+      },
+      {
+        "grp": "Research Scientist",
+        "n": 292,
+        "rate": 16.1
+      },
+      {
+        "grp": "Manufacturing Director",
+        "n": 145,
+        "rate": 6.9
+      },
+      {
+        "grp": "Healthcare Representative",
+        "n": 131,
+        "rate": 6.9
+      },
+      {
+        "grp": "Manager",
+        "n": 102,
+        "rate": 4.9
+      },
+      {
+        "grp": "Research Director",
+        "n": 80,
+        "rate": 2.5
+      }
+    ],
+    "MaritalStatus": [
+      {
+        "grp": "Single",
+        "n": 470,
+        "rate": 25.5
+      },
+      {
+        "grp": "Married",
+        "n": 673,
+        "rate": 12.5
+      },
+      {
+        "grp": "Divorced",
+        "n": 327,
+        "rate": 10.1
+      }
+    ],
+    "BusinessTravel": [
+      {
+        "grp": "Travel_Frequently",
+        "n": 277,
+        "rate": 24.9
+      },
+      {
+        "grp": "Travel_Rarely",
+        "n": 1043,
+        "rate": 15.0
+      },
+      {
+        "grp": "Non-Travel",
+        "n": 150,
+        "rate": 8.0
+      }
+    ],
+    "Department": [
+      {
+        "grp": "Sales",
+        "n": 446,
+        "rate": 20.6
+      },
+      {
+        "grp": "Human Resources",
+        "n": 63,
+        "rate": 19.0
+      },
+      {
+        "grp": "Research & Development",
+        "n": 961,
+        "rate": 13.8
+      }
+    ],
+    "AgeBand": [
+      {
+        "grp": "18-24",
+        "n": 97,
+        "rate": 39.2
+      },
+      {
+        "grp": "25-34",
+        "n": 554,
+        "rate": 20.2
+      },
+      {
+        "grp": "35-44",
+        "n": 505,
+        "rate": 10.1
+      },
+      {
+        "grp": "45-54",
+        "n": 245,
+        "rate": 10.2
+      },
+      {
+        "grp": "55+",
+        "n": 69,
+        "rate": 15.9
+      }
+    ],
+    "IncomeBand": [
+      {
+        "grp": "<3k",
+        "n": 395,
+        "rate": 28.6
+      },
+      {
+        "grp": "3k-6k",
+        "n": 519,
+        "rate": 12.7
+      },
+      {
+        "grp": "6k-10k",
+        "n": 275,
+        "rate": 12.0
+      },
+      {
+        "grp": "10k+",
+        "n": 281,
+        "rate": 8.9
+      }
+    ],
+    "TenureBand": [
+      {
+        "grp": "0-1",
+        "n": 215,
+        "rate": 34.9
+      },
+      {
+        "grp": "2-4",
+        "n": 365,
+        "rate": 18.1
+      },
+      {
+        "grp": "5-9",
+        "n": 524,
+        "rate": 11.1
+      },
+      {
+        "grp": "10+",
+        "n": 366,
+        "rate": 10.4
+      }
+    ],
+    "JobLevel": [
+      {
+        "grp": 1.0,
+        "n": 543,
+        "rate": 26.3
+      },
+      {
+        "grp": 2.0,
+        "n": 534,
+        "rate": 9.7
+      },
+      {
+        "grp": 3.0,
+        "n": 218,
+        "rate": 14.7
+      },
+      {
+        "grp": 4.0,
+        "n": 106,
+        "rate": 4.7
+      },
+      {
+        "grp": 5.0,
+        "n": 69,
+        "rate": 7.2
+      }
+    ],
+    "JobSatisfaction": [
+      {
+        "grp": 1.0,
+        "n": 289,
+        "rate": 22.8
+      },
+      {
+        "grp": 2.0,
+        "n": 280,
+        "rate": 16.4
+      },
+      {
+        "grp": 3.0,
+        "n": 442,
+        "rate": 16.5
+      },
+      {
+        "grp": 4.0,
+        "n": 459,
+        "rate": 11.3
+      }
+    ],
+    "WorkLifeBalance": [
+      {
+        "grp": 1.0,
+        "n": 80,
+        "rate": 31.3
+      },
+      {
+        "grp": 2.0,
+        "n": 344,
+        "rate": 16.9
+      },
+      {
+        "grp": 3.0,
+        "n": 893,
+        "rate": 14.2
+      },
+      {
+        "grp": 4.0,
+        "n": 153,
+        "rate": 17.6
+      }
+    ],
+    "StockOptionLevel": [
+      {
+        "grp": 0.0,
+        "n": 631,
+        "rate": 24.4
+      },
+      {
+        "grp": 1.0,
+        "n": 596,
+        "rate": 9.4
+      },
+      {
+        "grp": 2.0,
+        "n": 158,
+        "rate": 7.6
+      },
+      {
+        "grp": 3.0,
+        "n": 85,
+        "rate": 17.6
+      }
+    ]
+  },
+  "corr_with_attrition": {
+    "Age": -0.159,
+    "MonthlyIncome": -0.16,
+    "JobLevel": -0.169,
+    "TotalWorkingYears": -0.171,
+    "YearsAtCompany": -0.134,
+    "YearsInCurrentRole": -0.161,
+    "YearsWithCurrManager": -0.156,
+    "YearsSinceLastPromotion": -0.033,
+    "JobSatisfaction": -0.103,
+    "EnvironmentSatisfaction": -0.103,
+    "WorkLifeBalance": -0.064,
+    "StockOptionLevel": -0.137,
+    "DistanceFromHome": 0.078,
+    "NumCompaniesWorked": 0.043
+  }
+}

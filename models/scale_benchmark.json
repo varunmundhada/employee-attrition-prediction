@@ -1,0 +1,82 @@
+[
+  {
+    "factor": 1,
+    "rows": 1470,
+    "model": "Logistic Regression",
+    "fit_seconds": 22.1,
+    "score_seconds": 3.2,
+    "auc": 0.7997
+  },
+  {
+    "factor": 1,
+    "rows": 1470,
+    "model": "Random Forest",
+    "fit_seconds": 11.0,
+    "score_seconds": 1.4,
+    "auc": 0.8061
+  },
+  {
+    "factor": 10,
+    "rows": 14700,
+    "model": "Logistic Regression",
+    "fit_seconds": 11.9,
+    "score_seconds": 1.4,
+    "auc": 0.8626
+  },
+  {
+    "factor": 10,
+    "rows": 14700,
+    "model": "Random Forest",
+    "fit_seconds": 8.5,
+    "score_seconds": 1.7,
+    "auc": 0.9948
+  },
+  {
+    "factor": 50,
+    "rows": 73500,
+    "model": "Logistic Regression",
+    "fit_seconds": 10.8,
+    "score_seconds": 1.5,
+    "auc": 0.8741
+  },
+  {
+    "factor": 50,
+    "rows": 73500,
+    "model": "Random Forest",
+    "fit_seconds": 13.1,
+    "score_seconds": 1.4,
+    "auc": 0.9966
+  },
+  {
+    "factor": 200,
+    "rows": 294000,
+    "model": "Logistic Regression",
+    "fit_seconds": 16.2,
+    "score_seconds": 2.1,
+    "auc": 0.8711
+  },
+  {
+    "factor": 200,
+    "rows": 294000,
+    "model": "Random Forest",
+    "fit_seconds": 27.0,
+    "score_seconds": 2.7,
+    "auc": 0.9951
+  },
+  {
+    "factor": 500,
+    "rows": 735000,
+    "model": "Logistic Regression",
+    "fit_seconds": 27.2,
+    "score_seconds": 3.8,
+    "auc": 0.8725
+  },
+  {
+    "factor": 500,
+    "rows": 735000,
+    "model": "Random Forest",
+    "fit_seconds": 53.7,
+    "score_seconds": 3.4,
+    "auc": 0.9953
+  }
+]
