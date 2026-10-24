@@ -232,13 +232,14 @@ def build(template):
         if t.startswith("Department of Computer Science"):
             set_lines(sh, ["Department of Computer Science and Engineering",
                            "CA3: Project Submission and Presentation",
+                           "Course: Big Data Analytics (Course Code: 0705210731)",
                            "Employee Attrition Prediction using HR Analytics",
                            "(Industry Domain: HR Analytics)",
-                           "Session: 2026-27"])
+                           "Academic Year: 2026-27  |  Batch: 2023-27"])
         elif "Industry Mentor" in t:
             set_lines(sh, ["Technology:", "Apache Spark, MLlib, Streamlit"])
         elif "Institute Mentor" in t:
-            set_lines(sh, ["         Project Guide: Dr. Priya Dasarwar"])
+            set_lines(sh, ["         Institute Guide: Dr. Dharamveer Chaudhary"])
 
     outline = prs.slides[1]
     body = next(sh for sh in outline.shapes if sh.name == "Text Placeholder 2")

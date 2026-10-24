@@ -8,7 +8,8 @@ training, tuning and scoring) runs on Apache Spark, so the same code scales from
 cluster.
 
 > CA 3 project, B.Tech Computer Science and Engineering, Symbiosis Institute of Technology, Nagpur.
-> Varun Mundhada (PRN 23070521184) · Guide: Dr. Priya Dasarwar
+> Course: Big Data Analytics (Course Code: 0705210731) · Academic Year 2026-27 · Batch 2023-27
+> Varun Mundhada (PRN 23070521184) · Institute Guide: Dr. Dharamveer Chaudhary
 
 ![Dashboard](docs/screenshots/01_dashboard.png)
 
